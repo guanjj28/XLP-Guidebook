@@ -34,7 +34,7 @@ XLP 是根据宪法学学者劳伦斯?莱西格的四力法则来组建群体学习环境。这四力指的是：
 - 市场和资产管理；
 - 行为规范、文化和大众传媒
 
-[fourforce](https://github.com/guanjj28/XLP-Guidebook/blob/master/fourforce.png)
+![fourforce](https://github.com/guanjj28/XLP-Guidebook/blob/master/fourforce.png)
 
 
 
