@@ -125,6 +125,7 @@ GIT Book 是一款可以配合 GIT 进行版本控制，使⽤轻标记语⾔制
 - 讨论并总结（10分钟）
  - 整理每个人的意见，筛选出最受认可的部分进行整合，最终形成一个完整的创意或方案，撰写在页面的相应位置。
 
+![635photo](https://github.com/guanjj28/XLP-Guidebook/blob/master/chapter_2/635photo.png)
 
 
 
